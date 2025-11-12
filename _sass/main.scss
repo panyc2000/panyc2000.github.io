@@ -3,6 +3,10 @@
 @forward 'layout';
 @forward 'pages';
 
+/* 自定义样式 */
+@import 'custom/sidebar-enhanced';
+@import 'custom/post-copyright-enhanced';
+
 .custom-fa-leetcode {
   width: 1.25em;
   height: 100%;
