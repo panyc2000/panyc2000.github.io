@@ -87,10 +87,6 @@
       }
     }
 
-    &:hover strong::after {
-      width: 100%;
-    }
-
     a {
       color: var(--link-color);
       text-decoration: none;
@@ -111,14 +107,6 @@
         transition: transform 0.3s;
       }
 
-      &:hover {
-        color: rgba(138, 180, 248, 1);
-
-        &::before {
-          transform: scaleX(1);
-          transform-origin: left;
-        }
-      }
     }
 
     span {
