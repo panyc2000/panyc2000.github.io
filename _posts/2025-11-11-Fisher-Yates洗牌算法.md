@@ -1,8 +1,8 @@
 ---
 title: "Fisher-Yates洗牌算法"
-description: ""
+description: "Fisher-Yates洗牌算法原理与应用场景"
 categories: [ 数据结构与算法 ]
-tags: [ 数据结构与算法 ]
+tags: [ 数据结构与算法 , 随机算法 ]
 published: true # 是否公开
 comment: true # 评论区
 math: true # 数学模式, 由MathJax支持
